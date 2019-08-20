@@ -26,4 +26,4 @@ To run the app you need yarn package manager. Once you have yarn installed, clon
 
 #### Screenshot:
 
-![Home](https://saadibrahim.com/react-native-top-crypto/screenshot.jpg "Home"
+![Home](https://saadibrahim.com/react-native-top-crypto/screenshot.jpg "Home")
