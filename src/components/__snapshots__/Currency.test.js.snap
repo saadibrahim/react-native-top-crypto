@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the Currency using Snapshots 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "borderRadius": 5,
+      "margin": 10,
+      "marginBottom": 0,
+      "padding": 10,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "#888",
+        "fontStyle": "italic",
+        "fontWeight": "bold",
+        "position": "absolute",
+        "right": 10,
+        "top": 10,
+      }
+    }
+  >
+    #
+    2
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../src/resources/icons/btc.png",
+        }
+      }
+      style={
+        Object {
+          "height": 24,
+          "marginRight": 7,
+          "width": 24,
+        }
+      }
+    />
+    <Text
+      style={
+        Object {
+          "fontSize": 24,
+          "fontWeight": "600",
+          "marginRight": 7,
+        }
+      }
+    >
+      BTC
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "#888",
+          "fontSize": 14,
+        }
+      }
+    >
+      Bitcoin
+    </Text>
+  </View>
+  <Text
+    style={
+      Object {
+        "marginVertical": 3,
+      }
+    }
+  >
+    Price: $10,000.00 
+    <Text
+      style={
+        Object {
+          "color": "#FF0000",
+        }
+      }
+    >
+      (
+      -1.110
+      %)
+    </Text>
+  </Text>
+  <Text>
+    Market Cap: 
+    $1.00m
+  </Text>
+</View>
+`;
